@@ -1,2 +1,25 @@
+<<<<<<< HEAD
 Jävla krångel asså
 Hahaha, skönt om detta funkar!
+
+jävla rullande också.
+=======
+Hej
+
+
+
+
+
+kjasdjlksad
+
+
+
+
+kjjasljka
+
+
+
+
+
+lkslkjasdjlk
+>>>>>>> b64bcf0d6718ff9b37a7e54a2379a4613feca7b8
